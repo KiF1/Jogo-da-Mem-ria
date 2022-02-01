@@ -10,7 +10,7 @@
 ### Demonstração da aplicação
 ![Tela inicial](./imagens/gif.gif)
 
-### Para acessar meu projeto e testar você mesmo, não é necessário subir serviços ou realizar build, pois o mesmo está hospedado no seguinte link: https://kif1.github.io/Pagina-de-captura/
+### Para acessar meu projeto e testar você mesmo, não é necessário subir serviços ou realizar build, pois o mesmo está hospedado no seguinte link: https://kif1.github.io/Jogo-da-Mem-ria/
 ### Repositório: https://github.com/KiF1
 
 ### Gostou do meu projeto? :D Entre em contato comigo! 
