@@ -1,5 +1,5 @@
 ### - Para testar as skills que venho adquirindo ao longo do curso ProgramadorBR, tive a ideia de fazer o jogo da Memória. O jogo funciona convencionalmente como o real e pode ser jogado quantas vezes quiser.
-### - Este projeto me desafiou bastante, pois tive que criar a interação das cartas e também a interatividedade de ao iniciar desvirarem e virarem, também adicionar som e deixar eas viradas quando uma é igual a outra.
+### - Este projeto me desafiou bastante, pois tive que criar a interação das cartas e também a interatividedade de ao iniciar desvirarem e virarem, também adicionar som e deixar as cartas viradas quando uma é igual a outra.
 
 ### - Nesta aplicação foram usados as seguintes tecnologias:
 
